@@ -2,7 +2,7 @@
 const scrollButton = document.querySelector('#hero-btn');
 scrollButton.addEventListener('click', () => {
   window.scrollTo({
-    top: 800,
+    top: 750,
     behavior: 'smooth'
   });
 });
